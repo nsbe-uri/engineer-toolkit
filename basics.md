@@ -3,7 +3,8 @@
 ## Public Facing Things  
 	* LinkedIn  
 	* GitHub  
-	* Website  
+	* Website
+    * Great resume  
 
 ## Engineering Skills  
 	* 3 projects  
@@ -18,6 +19,11 @@
 	* Leetcode
 	* Hackerrank
 	* Cracking the Coding Interview
+    * White boarding
+    * Interview practice: Pramp, Interviewing.io  
 
-## Networking
+## How To Network
+Coming soon...  
+
+## Looking For Jobs
 Coming soon...  
