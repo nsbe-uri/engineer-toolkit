@@ -11,9 +11,10 @@
     * [Codecademy Command Line Course - Complete up to section 3](https://www.codecademy.com/learn/learn-the-command-line)
     * [Unix Command Line Intro - Complete up to section 4](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 * Git
-    * [Git Immersion Tutorial - Complete up to section 23](http://gitimmersion.com/)
-* 3 projects  
-* Learn at least one language well  
+    * [Git Immersion Tutorial - Complete up to section 23](http://gitimmersion.com/)  
+* Learn at least one language well
+* 3 projects
+* Data Structures
 * Know an object oriented language (Java, C++, C#)  
 * Object Oriented Programming
 * Post to GitHub
